@@ -1,5 +1,13 @@
 # @backstage/plugin-scaffolder
 
+## 0.11.14
+
+### Patch Changes
+
+- 6845cce533: Can specify allowedOwners to the RepoUrlPicker picker in a template definition
+- Updated dependencies
+  - @backstage/core-components@0.7.7
+
 ## 0.11.13
 
 ### Patch Changes
